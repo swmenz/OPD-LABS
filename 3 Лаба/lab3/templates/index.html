@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Нахождение корней квадратного уравнения</title>
+</head>
+<body>
+    <h1>Решение квадратного уравнения ax² + bx + c = 0</h1>
+
+    <form action="/" method="post">
+        <label for="num_1">Коэффициент a:</label>
+        <input type="text" name="num_1" required><br>
+
+        <label for="num_2">Коэффициент b:</label>
+        <input type="text" name="num_2" required><br>
+
+        <label for="num_3">Коэффициент c:</label>
+        <input type="text" name="num_3" required><br>
+
+        <input type="submit" value="Решить">
+    </form>
+
+    {% if ans %}
+        <h2>Результат:</h2>
+        <p>{{ ans }}</p>
+    {% endif %}
+</body>
+</html>

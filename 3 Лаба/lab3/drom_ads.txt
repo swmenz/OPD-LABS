@@ -1,0 +1,4 @@
+Автомобили: https://auto.drom.ru/
+СпецтехникаГрузовики и спецтехника: https://auto.drom.ru/spec/
+МотоМотоциклы: https://auto.drom.ru/moto/
+Оценить автомобиль: https://auto.drom.ru/rate_car/
