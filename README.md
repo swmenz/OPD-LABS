@@ -1,6 +1,6 @@
 # OPD-LABS
 
-Никита Белогур ПИН-241
+Никита Белогур ПИН-241 дата 30.05.2025
 1ЛАБА
 ![Код(1)](https://github.com/user-attachments/assets/cff5d05d-af44-46c1-837e-b4bd635c742f)
 ![Код(2)](https://github.com/user-attachments/assets/f7bf4e42-e1b5-4fa1-940f-14c5a19ee27a)
